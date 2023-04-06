@@ -24,6 +24,6 @@ In this project, our objective is to predict whether the patient has diabetes or
    `pip install -r requirements.txt`
 
 - Execute the command:
-   `python app.py`
+   `python application.py`
 
 - Open http://127.0.0.1:5000/ in your browser.
