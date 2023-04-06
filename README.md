@@ -33,7 +33,7 @@ Several constraints were placed on the selection of these instances from a large
 6. Model Building
 
 # Model Building 
-Logistic Regression model was used for this particular dataset. Hyperparameter tuning was applied on various independent variables to get maximum efficiency for the model. We were able to predict whether a person was diabetic or not with precision upto 90% and 80% accuracy.
+Logistic Regression model was used for this particular dataset. Hyperparameter tuning was applied on various independent variables to get maximum efficiency for the model. We were able to predict whether a person was diabetic or not with precision upto 90% and 80% accuracy. 
 
 
 # Screenshots
