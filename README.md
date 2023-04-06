@@ -11,7 +11,7 @@ In this project, our objective is to predict whether the patient has diabetes or
 
 - Clone this repository and unzip it.
 
-- After downloading, `cd` into the `flask` directory.
+- After downloading, `cd` into the `root` directory.
 
 - Begin a new virtual environment with Python 3 and activate it.
 
